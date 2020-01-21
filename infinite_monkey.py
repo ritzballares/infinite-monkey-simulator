@@ -26,7 +26,7 @@ def calculate_score(monkey_str, goal_str):
 
 def main():
 
-    goal_str = "methinks it is like a weasel"
+    goal_str = input("Enter a phrase: ")
     run_count = best_score = score = 0
     best_sentence = ""
 
