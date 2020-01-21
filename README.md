@@ -1,2 +1,2 @@
-# infinite-monkey-simulator
-A simulation of the infinite monkey theorem
+# Infinite Monkey Theorem Simulator
+This is a simulation of the infinite monkey theorem where users will be asked to enter a phrase. While the "monkey" tries to "type" and reach the goal phrase, the program will keep track of the current best sentence/phrase until it an exact copy of it is reached. In the end, the number of loops will be displayed to see how long it took for the "monkey" to reach that goal phrase.
