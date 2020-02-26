@@ -7,7 +7,8 @@ def generate(length):
     sentence = ""
 
     for x in range(length):
-        sentence += random.choice("abcdefghijklmnopqrstuvwxyz ")
+        sentence += random.choice(
+            "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ")
 
     return sentence
 
