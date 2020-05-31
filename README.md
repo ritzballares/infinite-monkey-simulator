@@ -1,2 +1,7 @@
 # Infinite Monkey Theorem Simulator
-This is a simulation of the infinite monkey theorem where users will be asked to enter a phrase. While the "monkey" tries to "type" and reach the goal phrase, the program will keep track of the current best sentence/phrase until it an exact copy of it is reached. In the end, the number of loops will be displayed to see how long it took for the "monkey" to reach that goal phrase.
+This is a simulation of the infinite monkey theorem. Users will be prompted to enter any phrase(s)/sentence(s) and the program will attempt to match the given string. 
+
+To run:
+```
+python3 infinite_monkey.py
+```
